@@ -1,0 +1,11 @@
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.csproj.AssemblyReference.cache
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.Form1.resources
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.FrmMedico.resources
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.FrmMedicoEgresado.resources
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.FrmPersonal.resources
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.FrmPrincipal.resources
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.csproj.GenerateResource.cache
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.AssemblyInfoInputs.cache
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.AssemblyInfo.cs
+C:\Users\nikob\source\repos\Silvera.Micaela\EntidadesRPP\WinFormsHospital\obj\Debug\net5.0-windows\WinFormsHospital.csproj.CoreCompileInputs.cache
